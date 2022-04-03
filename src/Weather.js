@@ -65,10 +65,7 @@ export default function Weather() {
         </div>
       </div>
       <small>
-        <a
-          href="https://github.com/AkiKoide/vanilla-weather-app"
-          target="_blank"
-        >
+        <a href="https://github.com/AkiKoide/weather-react" target="_blank">
           Open-source codes
         </a>
         by Aki Koide
