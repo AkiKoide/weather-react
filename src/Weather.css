@@ -1,0 +1,48 @@
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 10px;
+  background: linear-gradient(
+    178deg,
+    rgb(156, 177, 248) 7.5%,
+    rgb(153, 247, 243) 93.1%
+  );
+}
+
+.Weather .city-name {
+  font-size: 50px;
+  font-weight: 100;
+  line-height: 40px;
+  margin: 0 auto;
+}
+
+.Weather li {
+  list-style: none;
+  font-size: 16px;
+  margin: 0 auto;
+  text-transform: capitalize;
+}
+
+.Weather .weather-temperature img {
+  margin-right: 10px;
+  height: 64px;
+  width: 64px;
+}
+
+.Weather .tempreture {
+  font-size: 45px;
+  font-weight: 400px;
+}
+
+.Weather .units {
+  position: relative;
+  font-size: 16px;
+  top: -20px;
+}
+
+.Weather .weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
